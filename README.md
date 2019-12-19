@@ -14,7 +14,7 @@ dialog.show("confirm", "Is the sun shining?", function(exitCode) {
       console.log("Lovely! I hope you enjoy your day!");
       break;
     default:
-      console.error("Unknown response for prompt type.");
+      console.error("Unknown response for confirm type.");
   }
 });
 ```
