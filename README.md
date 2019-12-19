@@ -1,4 +1,4 @@
-This fork adds one additional dialog type called 'confirm'.
+This fork adds one additional dialog type called 'confirm' for win32.
 It shows buttons with "Yes" and "No".
 
 ```javascript
